@@ -135,7 +135,6 @@ export default {
     height: 600px;
 }
 section > .carousel {
-  margin-top:60px;
   overflow: hidden;
 }
 section > .carousel:after {

@@ -54,7 +54,7 @@
   margin: 0 auto;
   margin-top: 80px;
 }
-.login .login_title {
+.login_title {
   font-size: 24px;
   height: 60px;
   color: #8d6a54;
@@ -69,7 +69,7 @@
 .login_title span {
   display: inline-block;
 }
-.login .login_top a {
+.login_top a {
   text-decoration: none;
   display: block;
   float: right;
@@ -78,7 +78,7 @@
   margin-bottom: 15px;
 }
 .login_center input {
-  width: 330px;
+  width: 360px;
   height: 18px;
   padding: 16px 20px;
   color: #8d6a54;
@@ -97,7 +97,7 @@
   border: 1px solid #cfbbb0;
   outline: none;
 }
-.login .login_foot {
+.login_foot {
   display: flex;
   justify-content: space-between;
   margin: 20px 0;
